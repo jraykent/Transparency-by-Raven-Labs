@@ -1,18 +1,18 @@
-
 {
-  "name": "raven-lite",
+  "name": "transparency-by-raven-labs",
   "version": "1.0.0",
-  "private": true,
+  "description": "Transparency by Raven Labs is a browser-integrated tool to analyze bias, persuasion, and AI-generated content in real time.",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
+  "author": "Raven Labs",
+  "license": "MIT",
   "dependencies": {
-    "next": "13.4.19",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "openai": "^4.15.0"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
-    
