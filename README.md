@@ -1,5 +1,5 @@
 
-# Raven Lite (Next.js)
+# Transparency by Raven Labs (Next.js)
 
 Paste a link or article and receive a structured Raven Report.
 
