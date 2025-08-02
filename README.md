@@ -1,28 +1,43 @@
+# Transparency by Raven Labs
 
-# Transparency by Raven Labs (Next.js)
+**Transparency** is a real-time browser companion that reveals what's really behind the content you're reading.
 
-Paste a link or article and receive a structured Raven Report.
+It detects:
+- Media bias and narrative framing
+- Emotionally manipulative language
+- AI-generated content patterns
+- Legal and civic misrepresentations
 
-## Setup
+Built for voters, readers, and responsible citizens.
 
-1. Install dependencies:
+---
 
-   ```
-   npm install
-   ```
+## 💡 Why Transparency?
 
-2. Create `.env.local` and add your OpenAI key:
+Most tools track your behavior. We track the message.
 
-   ```
-   OPENAI_API_KEY=your-api-key
-   ```
+Our goal is to make sense of headlines, not just serve you more of them. Transparency is built with privacy-first design, local analysis, and no agenda.
 
-3. Run locally:
+---
 
-   ```
-   npm run dev
-   ```
+## 🧩 Components
 
-4. Or deploy to Vercel (auto-detects Next.js)
+- 🧠 Bias and emotional language tagging
+- 🔍 Framing and persuasion pattern detection
+- 🤖 AI-generation signal detection
+- ⚖️ Civics Lens toggle (for policy/legality framing)
+- 📤 Shareable summary cards
 
-    
+---
+
+## 🚀 Coming Soon
+
+- Chrome Extension (currently in `extension/` folder)
+- Mobile-native share-to-analyze flow
+- Visual swipeable report cards
+- Voice summaries
+
+---
+
+## 🔐 Built by Raven Labs  
+Open tools for a more transparent world.
